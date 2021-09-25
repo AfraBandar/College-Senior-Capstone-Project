@@ -1,5 +1,4 @@
-# College-Senior-Capstone-Project
-Senior Capstone Project "Verify"
+# College Senior Capstone Project "Verify"
 Sep 2020 – May 2021
 
 Project Verify:
